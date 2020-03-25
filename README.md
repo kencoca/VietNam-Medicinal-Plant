@@ -4,6 +4,6 @@ VietNam Medicinal Plant dataset
 - Training set consists 60 images for each species. 
 - Testing set consists 40 images for each species.
 
-Download the dataset images:
+Download the dataset images: https://drive.google.com/drive/folders/1DaoCCGhx1SYDYSFgYbbMr7RJ0Y9Ht5GL?usp=sharing
 
 
